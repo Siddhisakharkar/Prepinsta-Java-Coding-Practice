@@ -6,8 +6,11 @@ class Main{
         {
             System.out.println("The given character is an alphabet");
         }
-        else{
+        else if{
             System.out.println("The given character is not an albhabet");
+        }
+        else{
+            System.out.println("It is a  number");
         }
     }
 }
